@@ -1,0 +1,6 @@
+:root{
+--bg-color1:rgb(255, 224, 239);
+--bg-color2:rgb(255, 247, 223);
+--bg-color3:rgb(255, 209, 201);
+--gradient-bg: linear-gradient(to right, var(--bg-color1), var(--bg-color2), var(--bg-color3));
+}
